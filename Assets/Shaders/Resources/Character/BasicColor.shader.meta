@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 23427cc3b9441884193f44453dbc7e61
+timeCreated: 1470900384
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _DetailNormal: {instanceID: 0}
+  - _MaskTex: {instanceID: 0}
+  - _MatCap: {instanceID: 0}
+  - _SecondaryLayer: {instanceID: 0}
+  - _JitMap: {fileID: 2800000, guid: aed92799e6c10a34ab0a8526bdebde58, type: 3}
+  - _ScanlineMap: {fileID: 2800000, guid: c8a49cf33c43f884484b47f342c99778, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
